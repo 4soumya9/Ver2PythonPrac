@@ -1,5 +1,6 @@
 # rev with return statement  (each letter in a sentence)
 s = "Hellb wor"
+# output : Blleh row
 def revv3(s):
     result=[]
     words = s.split()
